@@ -1,0 +1,89 @@
+Html, body {
+    Margin: 0;
+    background: rgb(253,186,43);
+}
+
+
+Header {
+    background:rgb(254,136,36);
+    Padding: 40px;
+    Text-align: center;
+}
+
+Header h1 {
+    box-shadow: 0 0 20px;
+    Font-size: 90px;
+    Color: #dc090d;
+    Font-family: Georgia, serif;
+    Text-shadow: 0 0 20px #D3B627;13
+}
+
+Header img {
+    Border-radius:250px;
+    Width: 400px;
+    Border: 20px solid #E0E2EB;
+    Box-shadow: 0 0 20px rgb(207, 157, 147);
+}
+
+.content {
+    Max-width: 900px;
+    Margin: 0 auto;
+    Padding: 0 20px;
+}
+
+.content img.tom {
+    Border-radius: 20px;
+    Max-width: 100%;
+
+}
+
+.content h2 {
+    Text-shadow: 0 0 20px #fff;
+    Font-family: ‘Segoe UI’;
+}
+
+.content p.cap3on {
+    Font-size: 16px;
+    Font-style: italic;
+}
+
+
+Ul, ul li {
+    List-style: none;
+    Padding: 0;
+    Margin: 0;
+}
+
+Ul li {
+    Text-align: left;
+    Font-size: large;
+    Color: #ffff;
+}
+
+
+A {
+    Color: #333333;
+    Text-decoration: none;
+}
+
+
+H2, p, li {
+    Font-size: large;
+    Color: #333333;
+}
+
+
+Footer {
+    Margin-top: 20px;
+    Padding: 40px 20px;
+    Background-color: #FDDD32;
+}
+
+Footer ul {
+    Text-align: center;
+}
+
+Footer ul li {
+    Display: inline-block;
+    Margin: 0 5px;
+}
